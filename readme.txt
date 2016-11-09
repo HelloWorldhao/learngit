@@ -5,3 +5,6 @@ Creating a new branch is quick;
 Creating a new branch is quick AND simple.
 Creating a new branch is quick AND diff;
 Creating a new branch is quick AND sd;
+
+曾梦想仗剑走天涯;
+'也曾渴望过';
